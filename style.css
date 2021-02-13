@@ -1,0 +1,23 @@
+body{
+    text-align:center;
+    }
+
+    #p1{
+    font-variant:small-caps;
+    font-size:80px;
+    color:#F06292;
+    word-spacing:10px;
+    }
+    
+    #album{
+    width:450px;
+    border:5px;
+    border-style:dotted;
+    border-color:#F06292;
+    padding:5px;
+    height:150px;
+    }
+    #nametext{
+    font-size:40px;
+    color:#D500F9;
+    }
